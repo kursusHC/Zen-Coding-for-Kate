@@ -9,3 +9,5 @@ All the Zen shortcuts are here :
 http://code.google.com/p/zen-coding/downloads/detail?name=ZenCodingCheatSheet.pdf
 
 Several cool functions in Tools>Scripts
+
+Originally found at http://kate-editor.org/2012/01/21/scripting-in-kate/ in the comments. 
